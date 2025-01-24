@@ -17,3 +17,5 @@ const nextConfig1 = {
 }
 
 module.exports = nextConfig1
+module.exports = nextConfig1
+module.exports = nextConfig1module.exports = nextConfig1
